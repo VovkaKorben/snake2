@@ -1,3 +1,11 @@
+###############################################################################
+#
+#   Simple snake game written in Pyton
+#   use arrow keys to change directon
+#
+###############################################################################
+
+
 import pygame,pygame.freetype,pygame.gfxdraw
 import os, sys, traceback, random
 from pygame.locals import K_UP,K_LEFT,K_DOWN,K_RIGHT,K_ESCAPE,K_SPACE
